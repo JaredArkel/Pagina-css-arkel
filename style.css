@@ -1,0 +1,37 @@
+*{
+    
+    margin: 0%;
+    padding: 0;
+}
+p{
+    color: rgb(100, 77, 0);
+    font-size: 20px;
+}
+p:hover{
+    color: rgb(144, 238, 182);
+    font-size: 35px;
+
+}
+h2{
+    color: rgba(92, 43, 226, 0.834);
+    font-size: 25px;
+}
+nav{
+    color: blue;
+}
+nav img{
+    width: 50px;
+    height: 50px;
+}
+
+nav img:hover{
+    width: 80px;
+    height: 80px;
+}
+.obra-civil{
+    background-color: aqua;
+}
+
+#obra-especial{
+    background-color: red;
+}
